@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    
+}
+
+header {
+    background-color: rgb(182, 182, 182);
+    margin-bottom: 15px;
+}
+
+img {
+    margin: 15px;
+}
+
+li{
+    margin: 35px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: rgb(182, 182, 182);
+    height: 150px;
+}
+
+
+
